@@ -1,0 +1,66 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Moortak Lof Slider News\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2016-06-02 14:27+0430\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Your Team <translations@example.com>\n"
+"Language: fa_AF\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: moortak-lof-slider-news.php\n"
+
+#: moortak-lof-slider-news.php:47
+msgid "Moortak Lof Slider News widget"
+msgstr "MLSN  ابزارک اسلایدر خبرها"
+
+#: moortak-lof-slider-news.php:50
+msgid "Shows Post from a category in Lof Slider View"
+msgstr "نمایش نوشته های یک دسته بندی خاص به صورت اسلایدر."
+
+#: moortak-lof-slider-news.php:85
+msgid "Previous"
+msgstr "قبل"
+
+#: moortak-lof-slider-news.php:94
+#, php-format
+msgid "<h3 class=\"mini-title\"><a href=\"%s\" title=\"%s\">%s</a></h3>"
+msgstr "<h3 class=\"mini-title\"><a href=\"%s\" title=\"%s\">%s</a></h3>"
+
+#: moortak-lof-slider-news.php:118
+msgid "Next"
+msgstr "بعدی"
+
+#: moortak-lof-slider-news.php:140
+msgid "Lof Slider News"
+msgstr "اسلایدر اخبار"
+
+#: moortak-lof-slider-news.php:143
+msgid "Title"
+msgstr "عنوان"
+
+#: moortak-lof-slider-news.php:146
+msgid "Filter by Category"
+msgstr "فیلتر بر اساس دسته بندی"
+
+#: moortak-lof-slider-news.php:157
+msgid "Number of posts"
+msgstr "تعداد نوشته ها"
+
+#~ msgid "Show excerpt"
+#~ msgstr "نمایش خلاصه"
